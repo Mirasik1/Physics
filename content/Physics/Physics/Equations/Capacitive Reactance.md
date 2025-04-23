@@ -1,0 +1,1 @@
+$$X_C=\frac1{\omega C}$$

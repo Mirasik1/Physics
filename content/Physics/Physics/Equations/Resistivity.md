@@ -1,0 +1,1 @@
+$$R=\rho \frac LA$$

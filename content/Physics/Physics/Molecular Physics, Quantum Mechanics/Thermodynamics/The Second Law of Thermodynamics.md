@@ -1,0 +1,1 @@
+The second law of thermodynamics is a statement about which processes occur in nature and which do not. Heat can flow spontaneouly from a hot object to cold object; heat will not flow spontaneouly from a cold object to hot object. 

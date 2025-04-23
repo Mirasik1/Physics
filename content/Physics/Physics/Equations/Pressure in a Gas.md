@@ -1,0 +1,1 @@
+$$P=\frac13\frac{Nm\overline {v^2}}V$$

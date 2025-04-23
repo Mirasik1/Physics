@@ -1,0 +1,1 @@
+$$v = -v_{max}sin(wt+\phi)$$

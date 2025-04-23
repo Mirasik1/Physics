@@ -1,0 +1,1 @@
+$$P_1+\frac 1 2 \rho v_1^2+\rho gy_1=P_2+\frac 1 2 \rho v_2^2+\rho gy_2$$

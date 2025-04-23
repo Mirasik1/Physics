@@ -1,0 +1,1 @@
+$$a_{max} = A \frac km$$

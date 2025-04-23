@@ -1,0 +1,1 @@
+$$\vec F=I(\vec L\times \vec B)=BIlsin\theta$$

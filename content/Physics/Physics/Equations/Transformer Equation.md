@@ -1,0 +1,1 @@
+$$\frac {V_s}{V_p}=\frac {N_s}{N_p}=\frac {I_p}{I_s}$$

@@ -1,0 +1,1 @@
+$$\overline{KE}=\frac 12m\overline{v^2}=\frac 32kT $$

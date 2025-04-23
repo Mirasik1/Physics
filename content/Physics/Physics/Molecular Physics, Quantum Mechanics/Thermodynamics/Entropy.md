@@ -1,0 +1,3 @@
+Entropy $S$ is a fundamental concept in thermodynamics that quantifies **the amount of disorder or randomness** in a system. It is a state function, meaning its value depends only on the state of the system and not on how the system reached that state.
+![[Physics/Physics/Equations/Entropy|Entropy]]
+The second law of thermodynamics can be stated in terms of entropy as follows: The entropy of an isolated system **never decreases**. It can only stay the same or increase $\Delta S \ge 0$ .

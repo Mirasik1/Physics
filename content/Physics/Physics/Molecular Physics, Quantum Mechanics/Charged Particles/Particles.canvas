@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"96fc46af13991769","type":"text","text":"Mesons","x":-520,"y":80,"width":180,"height":60},
+		{"id":"b266034184b5102b","type":"text","text":"Particles","x":-200,"y":-240,"width":140,"height":60},
+		{"id":"0086a4ff069595d3","type":"text","text":"Neutron","x":-200,"y":180,"width":140,"height":60},
+		{"id":"3091bbd49c861550","type":"text","text":"Proton","x":-200,"y":280,"width":140,"height":60},
+		{"id":"af829adcd6be58ed","type":"text","text":"Baryons","x":-220,"y":80,"width":180,"height":60},
+		{"id":"c8e96adac977f20b","type":"text","text":"Pion","x":-490,"y":180,"width":120,"height":60},
+		{"id":"d8398f3a4665eab7","type":"text","text":"Kaon","x":-490,"y":280,"width":120,"height":60},
+		{"id":"50399f2095b27a3e","type":"text","text":"Electron","x":80,"y":80,"width":180,"height":60},
+		{"id":"df2f3209da613590","type":"text","text":"Muon","x":100,"y":180,"width":140,"height":60},
+		{"id":"3d65783006a2e1fb","type":"text","text":"Neutrino","x":100,"y":280,"width":140,"height":60},
+		{"id":"0f850b92829108ef","type":"text","text":"Leptons","x":-80,"y":-40,"width":200,"height":60},
+		{"id":"1d0b34ba10677a4d","type":"text","text":"Hadrons","x":-380,"y":-40,"width":200,"height":60}
+	],
+	"edges":[
+		{"id":"1bbcd9706c67f28a","fromNode":"b266034184b5102b","fromSide":"bottom","toNode":"1d0b34ba10677a4d","toSide":"top"},
+		{"id":"ec6e3c3a637aff13","fromNode":"1d0b34ba10677a4d","fromSide":"bottom","toNode":"96fc46af13991769","toSide":"top"},
+		{"id":"f806f7fe2b0dd1d0","fromNode":"1d0b34ba10677a4d","fromSide":"bottom","toNode":"af829adcd6be58ed","toSide":"top"},
+		{"id":"af1f4759674ea5a8","fromNode":"b266034184b5102b","fromSide":"bottom","toNode":"0f850b92829108ef","toSide":"top"},
+		{"id":"d6b566c578207841","fromNode":"0f850b92829108ef","fromSide":"bottom","toNode":"df2f3209da613590","toSide":"left"},
+		{"id":"5b0bc0c4e7c27ed8","fromNode":"0f850b92829108ef","fromSide":"bottom","toNode":"3d65783006a2e1fb","toSide":"left"},
+		{"id":"004c52d8bb8aef03","fromNode":"af829adcd6be58ed","fromSide":"left","toNode":"0086a4ff069595d3","toSide":"left"},
+		{"id":"66b33634473707dc","fromNode":"af829adcd6be58ed","fromSide":"left","toNode":"3091bbd49c861550","toSide":"left"},
+		{"id":"44db8babe6368ef3","fromNode":"96fc46af13991769","fromSide":"left","toNode":"c8e96adac977f20b","toSide":"left"},
+		{"id":"67898d8c4551fa34","fromNode":"96fc46af13991769","fromSide":"left","toNode":"d8398f3a4665eab7","toSide":"left"},
+		{"id":"62209bedcb2b8e44","fromNode":"0f850b92829108ef","fromSide":"bottom","toNode":"50399f2095b27a3e","toSide":"left"}
+	]
+}

@@ -1,0 +1,2 @@
+All points on a given frontwave are taken as point sources for the production of the secondary waves, called wavelets, that propagatein forward direction with sppeds characteristic of waves in that medium. After same time has elapsed, the new position of the wavefront is the surface tangent to the wave.
+![[Huygens Principle Illustration]]

@@ -1,0 +1,1 @@
+$$\overline{v} = \frac{\Delta x}{\Delta t}$$

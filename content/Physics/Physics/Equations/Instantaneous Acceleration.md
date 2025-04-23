@@ -1,0 +1,1 @@
+$$a = \frac {dv}{dt} =  \lim_{\Delta t \to 0} \frac {\Delta v}{\Delta t} $$

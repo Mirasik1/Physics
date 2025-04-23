@@ -1,0 +1,1 @@
+$$e=\frac{Q_H-Q_C}{Q_H}=\frac W{Q_H}$$

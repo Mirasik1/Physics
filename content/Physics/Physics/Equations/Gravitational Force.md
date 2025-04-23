@@ -1,0 +1,2 @@
+Every particle in the universe attracts every other particle with a force that is proportional to the product of their masses and inversely proportional to the square of the distance between them. This force acts along the line joining the two particles. 
+$$F = G \frac{m_1m_2}{r^2}$$

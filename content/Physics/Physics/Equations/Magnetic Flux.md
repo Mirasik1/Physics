@@ -1,0 +1,1 @@
+$$\Phi = BA\space cos\theta$$

@@ -1,0 +1,1 @@
+$$R=8.31\space \space J \space K^{-1}\space mol^{-1}$$

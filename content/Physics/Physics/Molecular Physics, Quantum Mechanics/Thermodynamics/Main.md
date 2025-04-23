@@ -1,0 +1,5 @@
+![[The First Law of Thermodynamics]]
+![[The Second Law of Thermodynamics]]
+![[Thermodynamic Processes]]
+![[Heat Engine]]
+![[Physics/Physics/Molecular Physics, Quantum Mechanics/Thermodynamics/Entropy]]

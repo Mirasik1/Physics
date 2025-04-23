@@ -1,0 +1,1 @@
+$$c=3.00\times 10^8 \space \space m \space s^{-2}$$

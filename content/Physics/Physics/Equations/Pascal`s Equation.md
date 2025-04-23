@@ -1,0 +1,1 @@
+$$\frac {F_{out}}{A_{out}}= \frac {F_{in}}{A_{in}}$$

@@ -1,0 +1,1 @@
+$$\frac 1{d_0} + \frac 1{d_i} = \frac 1{f}$$

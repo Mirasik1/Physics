@@ -1,0 +1,1 @@
+$$\vec F=q(\vec v\times \vec B)=qvBsin\theta$$

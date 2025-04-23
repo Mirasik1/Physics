@@ -1,0 +1,1 @@
+$$v_{rms}=\sqrt{\frac{3kT}m}$$

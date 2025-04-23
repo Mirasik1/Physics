@@ -1,0 +1,1 @@
+$$G=6.67\times 10^{-11} \space \space N \space m^2\space kg^{-2}$$

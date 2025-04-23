@@ -1,0 +1,2 @@
+Ray model of light assumes that light travels in straight-line called light-rays. When a narrow beam of light strikes a flat surface, we define the **angle of incidence, $\theta_i$**, to be the angle an incident ray makes with the normal to the surface, and the **angle of reflection, $\theta_r$**, to be the angle the reflected ray makes with the normal. $$\theta_i=\theta_r$$
+![[Reflection 1 Illustration]]

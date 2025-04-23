@@ -1,0 +1,1 @@
+$$PE=\frac 12QV= \frac 12CV^2 = \frac 12\frac {Q^2}C$$

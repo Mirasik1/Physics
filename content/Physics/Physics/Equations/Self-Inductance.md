@@ -1,0 +1,1 @@
+$$\epsilon = -L\frac{\Delta I}{\Delta t}$$

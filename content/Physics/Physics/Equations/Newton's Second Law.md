@@ -1,0 +1,1 @@
+$$\Sigma \vec F = m\vec a.$$

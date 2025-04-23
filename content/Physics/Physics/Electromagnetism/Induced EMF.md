@@ -1,0 +1,2 @@
+**Induced EMF** is the voltage produced in a circuit due to a **changing magnetic flux**The magnitude of the induced e.m.f is directly proportional to **the rate of change in magnetic flux linkage**. 
+![[Faraday`s Law of Induction]]

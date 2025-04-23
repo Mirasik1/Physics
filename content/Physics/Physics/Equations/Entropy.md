@@ -1,0 +1,1 @@
+$$\Delta S=\frac QT$$

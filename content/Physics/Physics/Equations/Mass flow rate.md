@@ -1,0 +1,1 @@
+$$\frac {\Delta m}{\Delta t}$$

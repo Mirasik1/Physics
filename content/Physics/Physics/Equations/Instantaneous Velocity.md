@@ -1,0 +1,1 @@
+$$v = \frac {dx}{dt} =  \lim_{\Delta t \to 0} \frac {\Delta x}{\Delta t} $$

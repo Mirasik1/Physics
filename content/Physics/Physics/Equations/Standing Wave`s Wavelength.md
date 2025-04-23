@@ -1,0 +1,3 @@
+$$\lambda _n = \frac {2L}n$$
+$L$ - lenght of the string
+$n$ = 1, 2, 3, ...

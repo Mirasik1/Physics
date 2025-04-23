@@ -1,0 +1,1 @@
+$$f_0=\frac 1 {2\pi} \sqrt{\frac k m}$$

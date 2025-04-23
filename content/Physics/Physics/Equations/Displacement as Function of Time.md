@@ -1,0 +1,1 @@
+$$x = Acos(wt+\phi)$$
